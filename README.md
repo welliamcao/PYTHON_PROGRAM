@@ -11,3 +11,4 @@ PYTHON_PROGRAM
 `
  python sshLogin.py {start|stop} 
 `
+使用sshLogin.py注意修改代码里面联系人的方式
